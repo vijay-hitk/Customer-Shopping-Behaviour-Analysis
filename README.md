@@ -37,13 +37,13 @@ This file contains:
 
 - Run Python code to load data into SQL database
 
-- Open customer_behavior_sql_queries.sql
+- Open Customer_analysis.sql
 
 - Answer Business Questions using SQL Queries
 
 <h3>Connect the SQL Database to Power BI</h3>
 
-- Open customer_behavior_dashboard.pbix
+- Open customer_behaviour_dashboard.pbix
 
 - Create interactive dashboard in Power BI
 
