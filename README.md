@@ -19,36 +19,36 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 <h1><B>Project Workflow</B></h1>
 
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+<h3>Open Customer_behaviour.ipynb notebook</h3>
 
 This file contains:
 
-Data Import
+- Data Import
 
-Data exploration
+- Data exploration
 
-Data cleaning
+- Data cleaning
 
-Connection to SQL Database
+- Connection to SQL Database
 
-Load the data from Python notebook into MySQL
+<h3>Load the data from Python notebook into PostgreSQL</h3>
 
-Create a database in SQL
+- Create a database in SQL
 
-Run Python code to load data into SQL database
+- Run Python code to load data into SQL database
 
-Open customer_behavior_sql_queries.sql
+- Open customer_behavior_sql_queries.sql
 
-Answer Business Questions using SQL Queries
+- Answer Business Questions using SQL Queries
 
-Connect the SQL Database to Power BI
+<h3>Connect the SQL Database to Power BI</h3>
 
-Open customer_behavior_dashboard.pbix
+- Open customer_behavior_dashboard.pbix
 
-Create interactive dashboard in Power BI
+- Create interactive dashboard in Power BI
 
-Create Project Report and Presentation
+<h3>Create Project Report and Presentation</h3>
 
-Create project report
+- Create project report
 
-Build presentation deck using Gamma AI
+- Build presentation deck using Gamma AI
